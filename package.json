@@ -1,0 +1,20 @@
+{
+  "name": "nextjs-emotion-escape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "fake-compiled-module": "file:fake-compiled-module",
+    "next": "^12.2.0",
+    "next-transpile-modules": "^9.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
