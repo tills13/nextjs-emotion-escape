@@ -1,8 +1,8 @@
 module.exports = {
-    compiler: {
-        emotion: {
-            autoLabel: 'never',
-            sourceMap: true
-        },
+  compiler: {
+    emotion: {
+      autoLabel: "never",
+      sourceMap: true,
     },
-}
+  },
+};
